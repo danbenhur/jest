@@ -5,6 +5,6 @@ const sum = (a, b) => {
 //   return a - b;
 // };
 
-let a = 5;
+let a = 8;
 
 module.exports = sum;
